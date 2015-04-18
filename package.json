@@ -10,7 +10,7 @@
   "scripts": {
     "test": "testjs"
   },
-  "author": "Pawel Kaczmarek",
+  "author": "yupkey",
   "license": "ISC",
   "devDependencies": {
     "gulp": "^3.8.11"
